@@ -1,0 +1,55 @@
+body {background: : #ffe4e1;
+	font-family: arial;
+}
+
+header {color: #006400;
+font-family: Garamond;
+font-size: 30px;
+text-align: center;
+position: fixed;
+width: 100%;
+background: white;
+padding: 5px;
+}
+
+.salad {top: 200px;
+text-align: center
+}
+
+.slogan {color: #556b2f;
+	font-family: serif;
+	font-size: 20px;
+	text-align: center;
+	position: fixed;
+	top: 120px;
+	width: 100%;
+}
+
+.contact {text-align: center;
+font-family: Garamond
+font-size: 30px;
+}
+
+.email {text-align: center;
+font-family: Garamond;
+}
+
+.list {text-align: center;
+font-family: Garamond; 
+color: darkgreen;
+font-size:20px;
+}
+
+.orders {padding: 30px;
+}
+
+.foot { text-align: center;
+font-family: Garamond; 
+color: white;
+font-size:20px;
+background: darkolivegreen;
+padding: 20px; 
+}
+
+.submission {margin-bottom: 20px
+}
